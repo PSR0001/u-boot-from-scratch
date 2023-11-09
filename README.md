@@ -19,6 +19,12 @@ sudo apt-get install bc bison build-essential coccinelle \
 
 ```
 
+```
+sudo apt-get install libssl-dev
+sudo apt-get install libsdl2-dev
+```
+
+
 ## Get the U-Boot source code
 ```sh
 wget ftp://ftp.denx.de/pub/u-boot/u-boot-2020.04.tar.bz2
